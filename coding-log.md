@@ -9,3 +9,9 @@ I've streamlined the process for myself a little bit, which I'm hoping will make
 Spent a lot of time redesigning my personal website today. Now has a much bigger emphasis on the projects I've done. Most of the copy is going yo stay the same though - with a few tweaks here and there. 
 
 As an aside, I gotta say: working in regular 'ole CSS and HTML can be refreshing. Brings me back to my younger days. 
+
+### Day 2: Wednesday, July 15, 2017
+
+Spent more time refreshing my portfolio site and playing around with some of the tricker CSS properties like display and position. I've been a standard block guy for a while now but I'm starting to understand relative, inline-block, etc. and how they all function together.
+
+Completed [Detect Capital](https://leetcode.com/problems/detect-capital/) on Leetcode. My solution works, but seeing what other people came up with makes it clear that learning regex would be helpful for these types of problems.
