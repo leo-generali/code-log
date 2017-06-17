@@ -10,8 +10,16 @@ Spent a lot of time redesigning my personal website today. Now has a much bigger
 
 As an aside, I gotta say: working in regular 'ole CSS and HTML can be refreshing. Brings me back to my younger days. 
 
-### Day 2: Wednesday, July 15, 2017
+### Day 2: Thursday, July 15, 2017
 
 Spent more time refreshing my portfolio site and playing around with some of the tricker CSS properties like display and position. I've been a standard block guy for a while now but I'm starting to understand relative, inline-block, etc. and how they all function together.
 
 Completed [Detect Capital](https://leetcode.com/problems/detect-capital/) on Leetcode. My solution works, but seeing what other people came up with makes it clear that learning regex would be helpful for these types of problems.
+
+### Day 3: Friday, July 16, 2017
+
+Worked on some more portfolio stuff and started building out various different React apps, but then I decided that was a bad idea so I plugged away at my college app.
+
+### Day 4: Saturday, July 17, 2017
+
+Got some serious refactoring done on the college app. Redesigned the UI as well - so it doesn't suck as much anymore. It's still definitely not there but getting closer.
