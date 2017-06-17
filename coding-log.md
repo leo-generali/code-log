@@ -23,3 +23,5 @@ Worked on some more portfolio stuff and started building out various different R
 ### Day 4: Saturday, July 17, 2017
 
 Got some serious refactoring done on the college app. Redesigned the UI as well - so it doesn't suck as much anymore. It's still definitely not there but getting closer.
+
+![test](https://raw.githubusercontent.com/leo-generali/code-log/master/img/new-ui.gif)
