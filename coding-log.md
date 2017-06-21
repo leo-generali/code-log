@@ -24,4 +24,19 @@ Worked on some more portfolio stuff and started building out various different R
 
 Got some serious refactoring done on the college app. Redesigned the UI as well - so it doesn't suck as much anymore. It's still definitely not there but getting closer.
 
-![test](https://raw.githubusercontent.com/leo-generali/code-log/master/img/new-ui.gif)
+![Updated-UI](https://raw.githubusercontent.com/leo-generali/code-log/master/img/new-ui.gif)
+
+### Day 5: Sunday, July 18, 2017
+
+Worked on my personal site a little bit. Added some of the newer projects that I've been working on. 
+
+### Day 6: Monday, July 19, 2017
+
+Worked a bit on the Feedback dashboard.
+
+### Day 7: Tuesday, July 20, 2017
+
+Did more work on Feedback today. Shaping up quite nicely!
+
+Also watched one of Wes Bos JS30 videos before bed. Really need to reintroduce that series into my life - its a good way to keep those JS skills sharp. 
+
